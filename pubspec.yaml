@@ -43,6 +43,7 @@ dependencies:
   googleapis_auth: ^1.6.0
   mime: ^1.0.6
   path: ^1.9.0
+  camera: ^0.10.5
 
 dev_dependencies:
   flutter_test:

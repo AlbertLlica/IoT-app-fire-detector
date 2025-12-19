@@ -11,7 +11,7 @@ class GcpStorageUploader {
   GcpStorageUploader._();
   static final GcpStorageUploader instance = GcpStorageUploader._();
 
-  static const String _bucketName = 'lithe-hallway-453615-q4';
+  static const String _bucketName = 'test-setup';
   static const _scopes = [StorageApi.devstorageFullControlScope];
 
   Future<StorageApi>? _api;
